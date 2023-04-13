@@ -1,10 +1,10 @@
-# Calculadora de IMC
-<p>Projeto em   React + Typescript fazendo uma calculadora</p>
+> # Calculadora de IMC
 
-<p>Projeto desenvolvendo durante o curso [B7web](https://b7web.com.br).</p>
+Projeto em   `React` + `Typescript` fazendo uma calculadora.
 
+Projeto desenvolvendo durante o curso [B7web](https://b7web.com.br).
 
-> ### Instalação 
+> ## Instalação 
 - `npm install`
 
 > ### Para rodar 
